@@ -1,0 +1,6 @@
+﻿  day7.c
+D:\KHK_coding\c_workspace\day7\day7.c(67,2): error C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strset. See online help for details.
+D:\KHK_coding\c_workspace\day7\day7.c(68,2): error C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strset. See online help for details.
+D:\KHK_coding\c_workspace\day7\day7.c(71,2): error C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strset. See online help for details.
+D:\KHK_coding\c_workspace\day7\day7.c(72,2): error C4996: 'strset': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strset. See online help for details.
+D:\KHK_coding\c_workspace\day7\day7.c(84,56): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.

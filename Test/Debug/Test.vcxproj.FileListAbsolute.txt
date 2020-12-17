@@ -1,0 +1,2 @@
+D:\KHK_coding\c_workspace\Test\Debug\Test.exe
+D:\KHK_coding\c_workspace\Test\Debug\Test.pdb

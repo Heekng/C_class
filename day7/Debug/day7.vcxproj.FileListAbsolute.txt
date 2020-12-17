@@ -1,0 +1,2 @@
+D:\KHK_coding\c_workspace\day7\Debug\day7.exe
+D:\KHK_coding\c_workspace\day7\Debug\day7.pdb
